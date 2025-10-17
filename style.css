@@ -3,7 +3,7 @@
 <head>
     <title>Визитка Мастера</title>
     <style>
-        body { background: #654321; color: white; padding: 20px; }
+        body { background: #654321; color: blue; padding: 20px; }
         .card { background: #cf0808; padding: 20px; border: 3px solid rgb(228, 203, 179); }
         h1 { color: gold; }
     </style>
