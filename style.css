@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Визитка Мастера</title>
+    <style>
+        body { background: #654321; color: white; padding: 20px; }
+        .card { background: #cf0808; padding: 20px; border: 3px solid rgb(228, 203, 179); }
+        h1 { color: gold; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Ваше Имя</h1>
+        <p><strong>Мастер D&D</strong></p>
+        <p>Контакты:</p>
+        <p>Telegram: @ваш_ник</p>
+        <p>Discord: ваш_ник#0000</p>
+    </div>
+</body>
+</html>
